@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notificationMusicManager</string>
+    <string name="channel_name">name channel</string>
+    <string name="channel_description">description</string>
+</resources>
